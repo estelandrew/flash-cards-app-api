@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Presidents",
+    "category": "History",
+    "cards": [
+      {
+        "definition": "1st President",
+        "term": "George Washington"
+      },
+      {
+        "definition": "2nd President",
+        "term": "John Adams"
+      },
+      {
+        "definition": "3rd President",
+        "term": "Thomas Jefferson"
+      },
+      {
+        "definition": "4th President",
+        "term": "James Madison"
+      },
+      {
+        "definition": "5th President",
+        "term": "James Monroe"
+      }
+    ]
+  },
+  {
+    "name": "Random Authors",
+    "category": "Arts and Lit",
+    "cards": [
+      {
+        "definition": "He wrote Olive Twist",
+        "term": "Charles Dickens"
+      },
+      {
+        "definition": "She wrote the Mysterious Affair at Styles",
+        "term": "Agatha Christie"
+      },
+      {
+        "definition": "She wrote the Harry Potter Series",
+        "term": "JK Rowling"
+      },
+      {
+        "definition": "He Wrote the Lord of the Rings",
+        "term": "JRR Tolkien"
+      },
+      {
+        "definition": "He Wrote the series The Dark Tower",
+        "term": "Stephen Kings"
+      }
+    ]
+  },
+  {
+    "name": "North American Capitals",
+    "category": "Geography",
+    "cards": [
+      {
+        "definition": "USA",
+        "term": "Washington DC"
+      },
+      {
+        "definition": "Jamaica",
+        "term": "Kingston"
+      },
+      {
+        "definition": "Guatemala",
+        "term": "Guatemala City"
+      },
+      {
+        "definition": "Honduras",
+        "term": "Tegucigalpa"
+      },
+      {
+        "definition": "Belize",
+        "term": "Belmopan"
+      }
+    ]
+  },
+  {
+    "name": "Basketball Teams",
+    "category": "Sports and Leisure",
+    "cards": [
+      {
+        "definition": "reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla",
+        "term": "Bulls"
+      },
+      {
+        "definition": "dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+        "term": "Lorem"
+      },
+      {
+        "definition": "enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute",
+        "term": "tempor"
+      },
+      {
+        "definition": "enim ad minim veniam, quis",
+        "term": "reprehenderit"
+      },
+      {
+        "definition": "Ut enim ad minim veniam, quis nostrud exercitation ullamco",
+        "term": "Excepteur"
+      }
+    ]
+  },
+  {
+    "name": "Presidents cont'd",
+    "category": "History",
+    "cards": [
+      {
+        "definition": "40th President",
+        "term": "Ronald Reagan"
+      },
+      {
+        "definition": "41st President",
+        "term": "George HW Bush"
+      },
+      {
+        "definition": "42nd President",
+        "term": "Bill Clinton"
+      },
+      {
+        "definition": "43rd President",
+        "term": "George W Bush"
+      },
+      {
+        "definition": "44th President",
+        "term": "Barack Obama"
+      }
+    ]
+  },
+  {
+    "name": "TV Show Theme Lyrics",
+    "category": "Entertainment",
+    "cards": [
+      {
+        "definition": "Come and knock on our door...",
+        "term": "Three's Company"
+      },
+      {
+        "definition": "Step by step, day by day...",
+        "term": "Step by Step"
+      },
+      {
+        "definition": "Whatever happened to predictability?",
+        "term": "Full House"
+      },
+      {
+        "definition": "It's a rare condition, this day and age, to read any good news on the newspaper page",
+        "term": "Family  Matters"
+      },
+      {
+        "definition": "When this boy meets world... when this meets world... wondering down this road that we call life",
+        "term": "Boy Meets World"
+      }
+    ]
+  },
+  {
+    "name": "Chemical Element Symbols",
+    "category": "Science and Nature",
+    "cards": [
+      {
+        "definition": "K",
+        "term": "Potassium"
+      },
+      {
+        "definition": "Kr",
+        "term": "Krypton"
+      },
+      {
+        "definition": "La",
+        "term": "Lanthanum"
+      },
+      {
+        "definition": "Li",
+        "term": "Lithium"
+      },
+      {
+        "definition": "C",
+        "term": "Carbon"
+      }
+    ]
+  }
+]
